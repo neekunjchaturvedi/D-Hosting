@@ -33,7 +33,7 @@ export async function initializeClients(userEmail: string) {
     provider
   );
   contract = new ethers.Contract(
-    "0xbb85CAcA34A7e01159D6076009e8462096eA794B",
+    "",
     WebpageStorageABI.abi,
     signer
   );
