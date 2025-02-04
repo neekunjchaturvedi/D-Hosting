@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="public/svg/lock-square-rounded.svg" alt="logo" width="200" height="auto" />
-  <h1>HTTP3 - Decentralized Web Hosting Platform</h1>
+  <h1>D-Host - Decentralized Web Hosting Platform</h1>
   
   <p>
     A revolutionary platform for hosting websites on the blockchain, ensuring permanent and censorship-resistant web presence.
@@ -14,7 +14,7 @@
   <span> · </span>
     <a href="https://github.com/yourusername/http3/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/yourusername/http3/issues/">Request Feature</a>
+    <a href="https://github.com/yourusername//issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -45,7 +45,7 @@
 
 ## About the Project
 
-HTTP3 is a revolutionary decentralized web hosting platform that leverages blockchain technology to provide permanent, censorship-resistant website hosting. It combines the power of IPFS (InterPlanetary File System) with smart contracts to create a robust, decentralized infrastructure for the web.
+D-Host is a revolutionary decentralized web hosting platform that leverages blockchain technology to provide permanent, censorship-resistant website hosting. It combines the power of IPFS (InterPlanetary File System) with smart contracts to create a robust, decentralized infrastructure for the web.
 
 ### Screenshots
 
@@ -113,47 +113,6 @@ To run this project, you will need to add the following environment variables to
 
 `GEMINI_API_KEY`
 
-## Getting Started
-
-### Prerequisites
-
-This project uses npm as package manager
-
-```bash
- npm install --global npm
-```
-
-### Installation
-
-Install HTTP3 with npm
-
-```bash
-  npm install http3
-  cd http3
-```
-
-### Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-### Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/yourusername/http3.git
-```
-
-Go to the project directory
-
-```bash
-  cd http3
-```
-
 Install dependencies
 
 ```bash
@@ -215,9 +174,7 @@ Contributions are always welcome!
 
 See `contributing.md` for ways to get started.
 
-### Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/yourusername/http3/blob/master/CODE_OF_CONDUCT.md)
 
 ## FAQ
 
@@ -232,9 +189,7 @@ Please read the [Code of Conduct](https://github.com/yourusername/http3/blob/mas
 
 Distributed under the MIT License. See LICENSE.txt for more information.
 
-## Contact
 
-Project Link: [https://github.com/blocklinklabs/http3](https://github.com/blocklinklabs/http3)
 
 ## Acknowledgements
 
